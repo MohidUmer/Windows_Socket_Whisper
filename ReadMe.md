@@ -1,4 +1,4 @@
-# 🎵 WindowsSocketWhisper - TCP & UDP Chat System
+# WindowsSocketWhisper - TCP & UDP Chat System
 
 **A Professional Windows-Based Socket Programming Chat System with Dual Protocol Support**
 
