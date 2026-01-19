@@ -1,0 +1,121 @@
+# =========================================
+# MOHID UMER - 23i-2130 - BCY-4B
+# Chat System Git Ignore File
+# =========================================
+
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+*.pch
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+*.idb
+*.ilk
+*.db
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+# CodeBlocks files
+*.cbp
+*.depend
+*.layout
+
+# Eclipse files
+.project
+.classpath
+.cproject
+.settings/
+
+# VS Code files
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# User history files
+*_history.txt
+*_udp.txt
+*_tcp.txt
+*.txt~
+
+# Server history files
+history.txt
+chat_log.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# User data files (avoid committing personal chat data)
+userdata.txt
+*.userdata
+
+# Network capture files (Wireshark)
+*.pcap
+*.pcapng
+
+# Backup files
+backup/
+*.backup
+
+# Log files
+*.log
+logs/
+
+# Documentation auto-generated
+docs/_build/
+
+# Ignore individual compiled files but keep source
+TCP_Version/client.exe
+TCP_Version/server.exe
+UDP_Version/client.exe
+UDP_Version/server.exe
+
+# Keep the source files
+!TCP_Version/client.cpp
+!TCP_Version/server.cpp
+!UDP_Version/client.cpp
+!UDP_Version/server.cpp
