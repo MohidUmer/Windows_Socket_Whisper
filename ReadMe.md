@@ -222,4 +222,4 @@ g++ -std=c++11 -o client.exe client.cpp -lws2_32 -Wall
 
 > WindowsSocketWhisper is a learning project for Windows network programming and TCP/UDP protocol experimentation. Feedback and collaboration are welcome.
 
-```
+---
