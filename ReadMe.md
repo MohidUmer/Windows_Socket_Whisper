@@ -580,7 +580,6 @@ When using or referencing WindowsSocketWhisper, please credit:
 ```
 WindowsSocketWhisper - Windows Socket Chat System
 Developer: Mohid Umer
-Assignment: Computer Networks (CNET) - Socket Programming
 Contact: mohidumer112@gmail.com
 ```
 
@@ -589,15 +588,7 @@ Contact: mohidumer112@gmail.com
 ## 👨‍💻 About the Developer
 
 **Name**: Mohid Umer  
-**ID**: 23i-2130  
-**Class**: BCY-4B  
-**Subject**: Computer Networks (CNET)  
 **Email**: mohidumer112@gmail.com  
-
-### Other Projects:
-- Linux-Compatible Socket Chat System
-- Network Protocol Analyzer
-- Packet Sniffer
 
 ---
 
